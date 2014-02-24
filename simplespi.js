@@ -132,9 +132,9 @@
       if(ref) { url.ref = ref; }
       if(params) {
         url.params = {};
-        var params = parts.split('&');
-        for(var i = 0; i < params.length; ++i) {
-          var p = params[i].split('=');
+        var params_parts = params.split('&');
+        for(var i = 0; i < params_parts.length; ++i) {
+          var p = params_parts[i].split('=');
           if (p.length == 2) {
             url.params[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
           }
@@ -153,7 +153,8 @@
         }, '?');
       }
       return str;
-    },
+    }
+  };
 
 
   /**

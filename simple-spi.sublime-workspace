@@ -1,0 +1,1157 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"container"
+			],
+			[
+				"navig",
+				"navigate"
+			],
+			[
+				"navigate",
+				"navigateEvent"
+			],
+			[
+				"is",
+				"isCurrent"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"init",
+				"initPage"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"nu",
+				"new_url"
+			],
+			[
+				"new",
+				"new_url"
+			],
+			[
+				"Simp",
+				"SimpleSPI"
+			],
+			[
+				"before",
+				"beforeNavigate"
+			],
+			[
+				"af",
+				"afterNavigate"
+			],
+			[
+				"bef",
+				"beforeNavigate"
+			],
+			[
+				"page",
+				"page_params"
+			],
+			[
+				"pa",
+				"page_params"
+			],
+			[
+				"conte",
+				"content-div"
+			],
+			[
+				"to",
+				"toload"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"pre",
+				"previousValue"
+			],
+			[
+				"p",
+				"params"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"pr",
+				"previous"
+			],
+			[
+				"ini",
+				"initPage"
+			],
+			[
+				"damian",
+				"damianblog"
+			],
+			[
+				"proje",
+				"projects"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"project",
+				"projects"
+			],
+			[
+				"binar",
+				"binary_search"
+			],
+			[
+				"us",
+				"usernames"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"hit",
+				"hitPower"
+			],
+			[
+				"P",
+				"SPRITE_PARTICLE"
+			],
+			[
+				"FAR",
+				"FART_POWER"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"jump",
+				"jump_x"
+			],
+			[
+				"STATE",
+				"STATE_STANDING"
+			],
+			[
+				"Fl",
+				"FLOOR_Y"
+			],
+			[
+				"STATe",
+				"STATE_STANDING"
+			],
+			[
+				"STATE_",
+				"STATE_JUMPING"
+			],
+			[
+				"STAT",
+				"STATE_DOWN"
+			],
+			[
+				"SAT",
+				"STATE_DOWN"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fot",
+				"footer"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"pro",
+				"programming"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"nav",
+				"navigate"
+			],
+			[
+				"tmp",
+				"tmpls"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-item"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"tex",
+				"text-decoration-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"proj",
+				"projects"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"title",
+				"title-header"
+			],
+			[
+				"foo",
+				"footer"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"futu",
+				"futura_fl"
+			],
+			[
+				"header",
+				"header_height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"active",
+				"activeMenu"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"pin",
+				"pink_bright"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"menu",
+				"menu-button"
+			],
+			[
+				"sep",
+				"sep-white"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mob",
+				"mobile_menu_event"
+			],
+			[
+				"main-",
+				"main-menu-mobile"
+			],
+			[
+				"men",
+				"main-menu-mobile"
+			],
+			[
+				"resi",
+				"resize"
+			],
+			[
+				"resizeEvent",
+				"resizeEventMobile"
+			],
+			[
+				"resize",
+				"resizeEvent"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"main",
+				"main-menu"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"sec",
+				"section_width"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ar",
+				"archive-meta"
+			],
+			[
+				"G",
+				"GothicStd"
+			],
+			[
+				"tu",
+				"turquoise_l"
+			],
+			[
+				"or",
+				"orangish"
+			],
+			[
+				"title-",
+				"title-arrow"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"t",
+				"tmpl"
+			],
+			[
+				"me",
+				"member"
+			],
+			[
+				"member",
+				"members"
+			],
+			[
+				"ta",
+				"table_name"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"fanc",
+				"fancy_div"
+			],
+			[
+				"fan",
+				"fancy_div"
+			],
+			[
+				"fa",
+				"fancy_div"
+			],
+			[
+				"outer",
+				"outerHeight"
+			],
+			[
+				"label",
+				"label_offset"
+			],
+			[
+				"fancy",
+				"fancy_label"
+			],
+			[
+				"go",
+				"darkGold"
+			],
+			[
+				"ani",
+				"animate_time"
+			],
+			[
+				"anim",
+				"animate"
+			],
+			[
+				"na",
+				"navigate"
+			],
+			[
+				"cv-r",
+				"cv-right"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bar_",
+				"bar_width"
+			],
+			[
+				"bar",
+				"bar_width"
+			],
+			[
+				"univ",
+				"University"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"po",
+				"popup_header"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"font-f",
+				"font-files"
+			],
+			[
+				"fon",
+				"font-face"
+			],
+			[
+				"data",
+				"data-anchor"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "simplespi.js",
+			"settings":
+			{
+				"buffer_size": 4529,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/webdev.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"togle ",
+				"Toggle Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"IND",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/angel/dev/angel/src/about.html",
+		"/home/angel/dev/angel/src/_includes/project-tmpl.html",
+		"/home/angel/dev/angel/src/_includes/projects-tmpl.html",
+		"/home/angel/dev/angel/build_prod.sh",
+		"/home/angel/dev/angel/src/js/angel.js",
+		"/home/angel/dev/damian/src/js/damian.js",
+		"/home/angel/.config/sublime-text-2/Packages/User/webprod.sublime-build",
+		"/home/angel/dev/angel/src/_layouts/default.html",
+		"/home/angel/dev/angel/_config.yml",
+		"/home/angel/dev/angel/_build/css/angel.scss",
+		"/home/angel/.config/sublime-text-2/Packages/User/webdev.sublime-build",
+		"/home/angel/dev/angel/build_dev.sh",
+		"/home/angel/dev/angel/about.html",
+		"/home/angel/dev/angel/css/angel.scss",
+		"/home/angel/dev/damian/web/_includes/pf-grid.html",
+		"/home/angel/dev/damian/web/_includes/pf-nav.html",
+		"/home/angel/dev/damian/web/_includes/pf-bread.html",
+		"/var/tmp/kdecache-angel/krun/4524_0_index.html",
+		"/home/angel/dev/damian/web/css/damian.scss",
+		"/home/angel/dev/damian/web/_layouts/default.html",
+		"/home/angel/dev/damian/web/index.html",
+		"/home/angel/dev/damian/web/portfolio/moruna.html",
+		"/home/angel/dev/damian/web/portfolio/final_cut.html",
+		"/home/angel/dev/damian/web/portfolio/fear_terror.html",
+		"/home/angel/dev/damian/web/portfolio/eco_lab_art.html",
+		"/home/angel/dev/damian/web/portfolio/cibelino.html",
+		"/home/angel/dev/damian/web/portfolio/play_with_type.html",
+		"/home/angel/dev/damian/web/portfolio/problems.html",
+		"/home/angel/dev/damian/web/portfolio/seven_samurai.html",
+		"/home/angel/dev/damian/web/portfolio/weird_criminals.html",
+		"/home/angel/dev/damian/web/_layouts/portfolio.html",
+		"/home/angel/dev/damian/web/js/damian.js",
+		"/home/angel/dev/damian/web/js/simplespi.js",
+		"/home/angel/dev/damian/web/js/damian.old.js",
+		"/home/angel/dev/angel/contact.html",
+		"/home/angel/dev/angel/project.html",
+		"/home/angel/dev/angel/_build/projects.html",
+		"/home/angel/dev/angel/index.html",
+		"/home/angel/dev/angel/_layouts/default.html",
+		"/home/angel/dev/angel/js/angel.js",
+		"/home/angel/dev/angel/projects.json",
+		"/home/angel/dev/angel/_includes/project-tmpl.html",
+		"/home/angel/dev/angel/projects.html",
+		"/home/angel/dev/angel/404.html",
+		"/home/angel/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/angel/dev/angel/_includes/cv-tmpl.html",
+		"/home/angel/dev/angel/_includes/projects-tmpl.html",
+		"/home/angel/dev/katas/typeahead.rb",
+		"/home/angel/dev/angel/css/lightbox.css",
+		"/home/angel/dev/projects old/typ/typ.prg",
+		"/home/angel/dev/fart fighter/js/sprite.js",
+		"/home/angel/dev/fairycave/wp/js/fairycave-dawanda.js",
+		"/home/angel/dev/dlp/wp/footer.php",
+		"/home/angel/dev/angel/cv.json",
+		"/home/angel/dev/angel/index.php",
+		"/home/angel/dev/dlp/wp/style.scss",
+		"/home/angel/dev/dlp/wp/header.php",
+		"/home/angel/dev/dlp/wp/page-contacto.php",
+		"/home/angel/dev/dlp/wp/functions.php",
+		"/home/angel/dev/dlp/wp/css/font-awesome.min.css",
+		"/home/angel/dev/dlp/wp/home.php",
+		"/home/angel/dev/dlp/wp/single.php",
+		"/home/angel/dev/dlp/wp/category.php",
+		"/home/angel/dev/dlp/wp/tag.php",
+		"/home/angel/dev/angel/css/angel.css",
+		"/home/angel/dev/dlp/wp/page.php",
+		"/home/angel/dev/dlp/wp/content-page.php",
+		"/home/angel/dev/dlp/wp/content.php",
+		"/home/angel/dev/casataller/jekyll/_layouts/default.html",
+		"/home/angel/dev/casataller/web/contacto.html",
+		"/home/angel/.config/sublime-text-2/Packages/Emmet/Emmet.sublime-settings",
+		"/home/angel/dev/casataller/web/taller.html",
+		"/home/angel/dev/casataller/web/css/casataller.scss",
+		"/home/angel/dev/angel/front.html",
+		"/home/angel/dev/angel/humans.txt",
+		"/home/angel/dev/fairycave/wp/comments.php",
+		"/home/angel/dev/fairycave/wp/header.php",
+		"/home/angel/dev/fairycave/wp/page.php",
+		"/home/angel/dev/fairycave/wp/single.php",
+		"/home/angel/dev/fairycave/wp/footer.php",
+		"/home/angel/dev/fairycave/wp/index.php",
+		"/home/angel/dev/fairycave/wp/content.php",
+		"/home/angel/dev/helloword/grails-app/domain/helloworld/Person.groovy",
+		"/home/angel/dev/helloword/grails-app/domain/org/bookstore/Book.groovy",
+		"/home/angel/dev/helloword/grails-app/conf/BuildConfig.groovy",
+		"/home/angel/dev/helloword/grails-app/conf/Config.groovy",
+		"/home/angel/dev/angel/email.php",
+		"/home/angel/dev/damian/web/content.json",
+		"/home/angel/dev/damian/web/home.html",
+		"/home/angel/dev/damian/web/aboutme.html",
+		"/home/angel/dev/damian/web/contact.html",
+		"/home/angel/dev/llf/la-liga-fan-tica/application/models/team_model.php",
+		"/home/angel/dev/llf/la-liga-fan-tica/application/models/comunidad_model.php",
+		"/home/angel/dev/damian/web/portfolio/fun_with_type.html",
+		"/home/angel/dev/angel/cv2.html",
+		"/usr/share/applications/kde4/amarok.desktop",
+		"/home/angel/dev/dlp/old_header.txt",
+		"/home/angel/dev/angel/cv.html",
+		"/home/angel/dev/dlp/wp/languages/page-contacto.html",
+		"/home/angel/dev/david/wp/content-page.php",
+		"/home/angel/dev/david/wp/category.php",
+		"/home/angel/dev/david/wp/languages/dlp.pot",
+		"/home/angel/dev/david/wp/tag.php",
+		"/home/angel/dev/david/wp/content.php",
+		"/home/angel/dev/david/wp/home.php",
+		"/home/angel/dev/david/wp/index.php",
+		"/home/angel/dev/david/wp/single.php",
+		"/home/angel/dev/david/wp/js/dlp.js",
+		"/home/angel/dev/david/wp/header.php",
+		"/home/angel/dev/david/wp/functions.php",
+		"/home/angel/dev/david/wp/sidebar.php",
+		"/home/angel/dev/david/wp/page.php",
+		"/home/angel/dev/david/wp/front-page.php",
+		"/home/angel/dev/david/wp/style.scss",
+		"/home/angel/dev/david/wp/404.php",
+		"/home/angel/dev/david/wp/footer.php",
+		"/home/angel/dev/david/wp/style.css",
+		"/home/angel/dev/david/wp/page-blog.php",
+		"/home/angel/dev/david/wp/page-home.php",
+		"/home/angel/dev/david/wp/page-aboutus.php",
+		"/home/angel/dev/david/wp/page-services.php",
+		"/home/angel/dev/damian/web/portfolio/fun_with_typo.html",
+		"/home/angel/dev/angel/css/animate-custom.css",
+		"/home/angel/dev/angel/js/animate-custom.css",
+		"/home/angel/dev/llf/la-liga-fan-tica/application/models/team_plantilla_model.php",
+		"/home/angel/dev/llf/la-liga-fan-tica/application/models/team_jornada_model.php",
+		"/home/angel/dev/llf/la-liga-fan-tica/application/views/teams/myteam.php",
+		"/home/angel/dev/llf/la-liga-fan-tica/application/models/player_model.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/angel/dev/llf/svn/angel/trunk/application/controllers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"==",
+			"<a",
+			";,",
+			"container-div",
+			"content-div",
+			"console.log",
+			"consolo.log",
+			"cv",
+			"data",
+			"img",
+			"image",
+			"img",
+			"log",
+			"footer-so",
+			"php",
+			"li",
+			"tag",
+			"tags",
+			"serv-",
+			"p {",
+			"featured",
+			"ul",
+			":hover",
+			"page-footer",
+			"header_padding_bottom",
+			"header_max_width",
+			".nav",
+			"nav",
+			".inner",
+			"li",
+			"footer-so",
+			"menu-t",
+			"nav",
+			"ul",
+			"projects",
+			"menu-",
+			".front",
+			".nave",
+			"page-nav",
+			"title",
+			"page-header",
+			"footer-iner",
+			"title-he",
+			"#title",
+			"tag-line",
+			"footer-so",
+			"footer-menu",
+			".nav",
+			"#page-nav",
+			"subtitle",
+			"#page-nav .nav",
+			"#page .nav",
+			"#main",
+			"z-index",
+			"header_padding_bottom",
+			"li+li",
+			"article_width",
+			"640",
+			"parseNav",
+			"menu-button",
+			"casataller",
+			"article",
+			"h1",
+			"604",
+			"thirteen",
+			"4rem",
+			"em",
+			"box",
+			"28",
+			"ul",
+			"Open Sans",
+			"title",
+			".nav",
+			".nav li",
+			"nav .li",
+			"margin-b",
+			"page-header",
+			"						<div id=\"evoChartContainer\">\nbase_url",
+			"console.log",
+			"self-",
+			"footer-init",
+			"cv-header",
+			"header",
+			".site-title",
+			"#sub",
+			"footer-social",
+			"icon-ok",
+			"dlpicon",
+			"secon",
+			"ul {",
+			".nav",
+			"footer",
+			"primary",
+			"2rem",
+			"footer-inner",
+			".entry-title",
+			"#main",
+			".nav",
+			"nav-inner",
+			"nav-inner ul",
+			"bar",
+			".logo",
+			"bar",
+			"logo",
+			".logo",
+			"header_height",
+			".logo",
+			"header-inner",
+			".logo",
+			"#page-header",
+			".logo",
+			"amily: 'd",
+			"amily",
+			"18pt",
+			"18",
+			"inner",
+			"nav-inner",
+			"floating-img",
+			"pf-img-border",
+			"floating-img",
+			"pf-img-border",
+			"floating-img",
+			"tag",
+			"logo",
+			"title",
+			"long-desc",
+			"pf-grid",
+			"#header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"image",
+			"images",
+			"image",
+			"images",
+			"image",
+			"html",
+			"initPage",
+			"#logo",
+			".page-header",
+			"pf-float-img",
+			"border-thin",
+			"pf-float-img",
+			"border-thin",
+			"pf-float-img",
+			"tags",
+			"long_desc",
+			"seven_samurai",
+			"cibelino",
+			"weird_criminals",
+			"final_cut",
+			"eco_lab_art",
+			"fear_terror",
+			"$darkGold",
+			"$gold"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "simplespi.js",
+					"settings":
+					{
+						"buffer_size": 4529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2523,
+								2523
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"c": "/user/bin/cppcheck",
+								"php": "/user/bin/php"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2193.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"evolu",
+				"application/views/communities/evolution.php"
+			],
+			[
+				"comm",
+				"application/controllers/community.php"
+			],
+			[
+				"evo",
+				"application/views/communities/evolution.php"
+			],
+			[
+				"controller/co",
+				"application/controllers/community.php"
+			],
+			[
+				"team.php",
+				"application/controllers/team.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}

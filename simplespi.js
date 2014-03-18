@@ -133,6 +133,7 @@
       return self.str_2_url3(parts[0], parts[1], search);
     },
     str_2_url3: function(page, ref, params) {
+      var self = SimpleSPI;
       var url = {"page": page};
       url.ref = ref;
       url.params = self.params_2_map(params);

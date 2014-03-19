@@ -150,14 +150,14 @@
       }
       return params_map;
     },
-    url_2_str: function(obj) {
-      var str = obj.page;
-      if(obj.ref) {
-        str += "#" + obj.ref;
+    url_2_str: function(url) {
+      var str = url.page;
+      if(url.ref) {
+        str += "#" + url.ref;
       }
-      if(obj.params) {
-        str += Object.keys(obj.params).reduce(function(previous, current, index, value) {
-          return previous + (index > 0 ? '&' : '') + current + '=' + obj.params[current];
+      if(url.params && url.params.length > 0) {
+        str += urlect.keys(url.params).reduce(function(previous, current, index, value) {
+          return previous + (index > 0 ? '&' : '') + current + '=' + url.params[current];
         }, '?');
       }
       return str;

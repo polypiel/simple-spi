@@ -1,3 +1,41 @@
+function Url(page, ref, params) {
+  this.page = page;
+  this.ref = ref;
+  this.params = params;
+
+  this.toString = function() {
+    var str = this.page;
+    var self = this;
+    if(this.ref) {
+      str += "#" + this.ref;
+    }
+    if(this.params) {
+      str += Object.keys(this.params).reduce(function(previous, current, index, value) {
+        return previous + (index > 0 ? '&' : '') + current + '=' + self.params[current];
+      }, '?');
+    }
+    return str;
+  };
+
+  this.equals = function(other) {
+    // compare page
+    if(this.page !== other.page) {
+      return false;
+    }
+    // Compare params
+    if(this.params.length !== other.params.length) {
+      return false;
+    }
+    for(param in this.params) {
+      if(!other.params[param] || this.params[param] !== other.params[param]) {
+        return false;
+      }
+    }
+    // equals
+    return true;
+  };
+}
+
 /**
  * Simple library to load pages in a SPI way.
  * It requires jQuery.
@@ -99,29 +137,19 @@
         self.parsePage(url);
 
         // updates browser url
-        var url_str = self.url_2_str(url);
+        var url_str = url.toString();
         history.pushState(url_str, "", url_str);
       });
     },
 
+    // Checks if the given URL is the current one
     isCurrent: function(url) {
-      var cpage = window.location.pathname.substr(1);
-      if(url.page === cpage) {
-        // Compare params
-        var params = self.params_2_map(window.location.search.substr(1));
-        if(params.length != url.params.length) {
-          return false;
-        }
-        for(param in url.params) {
-          if(!params[param] || url.params[param] != params[param]) {
-            return false;
-          }
-        }
-        return true;
-      }
-      return false
+      var self = SimpleSPI;
+      var current = self.str_2_url2(window.location.pathname.substr(1), window.location.search.substr(1));
+      return url.equals(current);
     },
 
+    // constructors
     str_2_url: function(str) {
       var self = SimpleSPI;
       var parts = str.split('?');
@@ -134,11 +162,15 @@
     },
     str_2_url3: function(page, ref, params) {
       var self = SimpleSPI;
+      /*
       var url = {"page": page};
       url.ref = ref;
       url.params = self.params_2_map(params);
       return url;
+      */
+      return new Url(page, ref, self.params_2_map(params));
     },
+    // aux method
     params_2_map: function(params) {
       var params_map = {};
       var params_a = params ? params.split('&') : [];
@@ -150,18 +182,6 @@
       }
       return params_map;
     },
-    url_2_str: function(url) {
-      var str = url.page;
-      if(url.ref) {
-        str += "#" + url.ref;
-      }
-      if(url.params && url.params.length > 0) {
-        str += urlect.keys(url.params).reduce(function(previous, current, index, value) {
-          return previous + (index > 0 ? '&' : '') + current + '=' + url.params[current];
-        }, '?');
-      }
-      return str;
-    }
   };
 
 

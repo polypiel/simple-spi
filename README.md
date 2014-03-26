@@ -1,4 +1,4 @@
-simple-spi
+Simple SPI
 ==========
 
 A really simple javascript module to turn a web into SPI.
@@ -14,8 +14,10 @@ Callbacks:
 * beforeNavigate    It's called just before loading the content
 * afterNavigate     It's called just after the content is loaded
 
-== Examples
+
+## Examples
+
 The script is used in:
- - angelcalvo.com
- - damianflores.es
- - casataller.info
+ - [angelcalvo.com](http://angelcalvo.com)
+ - [damianflores.es](http://damianflores.es)
+ - [casataller.info](http://casataller.info)

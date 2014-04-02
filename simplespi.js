@@ -25,6 +25,7 @@
 
     /**
      * Init method
+     * @param config Client configuration
      */
     init: function(config) {
       var self = SimpleSPI;
@@ -44,6 +45,7 @@
 
     /**
      * Search for links with the data-nav tag
+     * @param url Current URL
      */
     parsePage: function(url) {
       var self = SimpleSPI;
@@ -81,7 +83,7 @@
     },
 
     /**
-     * Navigates to the new content
+     * Pre-navigates to the new content. Call the beforeNavigate callback.
      * @param url page to load
      */
     navigate: function(url) {
@@ -98,6 +100,10 @@
       }
     },
 
+    /**
+     * Perfoms the real navigation
+     * @param url page to load
+     */
     navigate2: function(url) {
       var self = SimpleSPI;
 

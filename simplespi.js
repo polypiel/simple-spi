@@ -178,6 +178,11 @@ var urlmodule = (function () {
       // equals
       return true;
     };
+
+    /** Returns if the given param exists */
+    this.hasParam = function(param) {
+      return this.params && this.params[param];
+    };
   }
 
   function str_2_url3(page, ref, params) {

@@ -162,12 +162,25 @@ var urlmodule = (function () {
 
     /** Compares this Url to another ignoring the ref */
     this.equals = function (other) {
+      // helper function to count the num of properties of an object
+      function len(obj) {
+        var count = 0;
+        if( typeof obj !== undefined) {
+          for (var p in obj) {
+            if (obj.hasOwnProperty(p)) {
+              count++;
+            }
+          }
+        }
+        return count;
+      }
+
       // compare page
       if (this.page !== other.page) {
         return false;
       }
       // Compare params
-      if (this.params.length !== other.params.length) {
+      if (len(this.params) !== len(other.params)) {
         return false;
       }
       for (var param in this.params) {

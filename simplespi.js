@@ -164,21 +164,22 @@ var urlmodule = (function () {
     this.equals = function (other) {
       // helper function to count the num of properties of an object
       function len(obj) {
-        var count = 0;
-        if( typeof obj !== undefined) {
-          for (var p in obj) {
-            if (obj.hasOwnProperty(p)) {
-              count++;
-            }
-          }
+        if(typeof obj === "undefined") {
+          return 0;
         }
-        return count;
+        return Object.getOwnPropertyNames(obj).length;
       }
 
       // compare page
       if (this.page !== other.page) {
         return false;
       }
+
+      // compare id
+      if((this.hasRef() || other.hasRef()) && this.ref !== other.ref) {
+        return false;
+      }
+
       // Compare params
       if (len(this.params) !== len(other.params)) {
         return false;
@@ -194,7 +195,15 @@ var urlmodule = (function () {
 
     /** Returns if the given param exists */
     this.hasParam = function(param) {
-      return this.params && this.params[param];
+      return this.hasParams() && this.params[param];
+    };
+
+    this.hasParams = function() {
+      return typeof this.params !== "undefined" && Object.keys(this.params).length > 0;
+    };
+
+    this.hasRef = function() {
+      return typeof this.ref !== "undefined" && this.ref.length; // TODO
     };
   }
 

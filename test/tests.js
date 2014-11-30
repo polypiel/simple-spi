@@ -34,7 +34,7 @@ QUnit.test( "current url", function( assert ) {
 QUnit.test("url params", function(assert) {
   var url = urlmodule.str_2_url("http://angelcalvo.com/project.html?p=angel");
   assert.ok(url.hasParam('p'));
-  assert.equal(url.params['p'], "angel")
+  assert.equal(url.params['p'], "angel");
 });
 
 QUnit.test("url equals", function(assert) {

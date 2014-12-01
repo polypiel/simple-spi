@@ -220,7 +220,14 @@ var urlmodule = (function () {
         params_map[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
       }
     }
-    return new Url(page, ref, params_map);
+    return new Url(removeTailingBar(page), ref, params_map);
+  }
+
+  function removeTailingBar(page) {
+    if(page.indexOf('/', page.length - 1) !== -1) {
+      return page.substr(0, page.length - 1);
+    }
+    return page;
   }
 
   function str_2_url2(path, search) {
